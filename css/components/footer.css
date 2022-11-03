@@ -1,0 +1,40 @@
+.footer {
+  background-color: rgb(233, 220, 220);
+}
+
+.footer .container {
+  height: 100px;
+  margin-top: 64px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.socials {
+  margin: 0;
+}
+.list-inline {
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+}
+
+i {
+  color: #293241;
+  font-size: 32px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+i:hover {
+  color: #ecb7b7;
+}
+
+.footer h3 {
+  vertical-align: middle;
+}
